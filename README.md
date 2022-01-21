@@ -25,7 +25,11 @@ Let's say you're designing a casual racing game, and you're looking for car horn
 - [car-horn__c.wav](/assets/car-horn__c.wav?raw=1)
 
 #### Your Answer
-<!-- Write your answer here -->
+<!--
+A) Sound is loud, and there's no noise but there's little decay and happens so quickly that it melds together a bit.
+B) Attack and decay is better and the spacing between the honks allows for clarity, but the volume is way too low.
+C) Nails every category except for sound, there;s clearly traffic going on in the background.
+-->
 
 ### Identifying EQ Problems
 
@@ -36,7 +40,10 @@ Below is a car engine audio clip, and two two versions of the same clip, each on
 - [car-engine__eq2](/assets/car-engine__eq2.wav?raw=1)
 
 #### Your Answer
-<!-- Write your answer here -->
+<!--
+EQ1) Lower pitch
+EQ2) Higher pitch
+ -->
 
 ## Waveform Analysis
 
@@ -55,7 +62,7 @@ To edit the table below, use a text editor to edit this file. Use this [markdown
 
 | waveform | sound description |
 | --- | --- |
-| | gunshot |
-| | drum beat |
-| | passing car |
-| | recorded interview |
+|C | gunshot |
+|A | drum beat |
+|B | passing car |
+|D | recorded interview |
