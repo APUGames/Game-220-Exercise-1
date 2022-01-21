@@ -25,7 +25,10 @@ Let's say you're designing a casual racing game, and you're looking for car horn
 - [car-horn__c.wav](/assets/car-horn__c.wav?raw=1)
 
 #### Your Answer
-<!-- Write your answer here -->
+<!-- Write your answer here --> 
+A The sound is very harsh and lound in volume. It has two attacks and a little to no time for decay. The reverberation is early with the quick honking that ends abruptly.
+B For creating a racing game the length of volume is not ideal. This sound is hard to loop unlike the first file. The attacks all sound different and you can hear a noise as the decay happens. The wavelength itself is shorter and more condesed because the sound is muddier and farther away.
+C There is two different sets of noises here. its the sound of a car driving by and a car honking twice. The car honking twice is ideal for games because its a short attack and decay. The noise is loud and expressive and can be easily looped. However, this clip as a whole is not good because it has too much background noise and would sound funny having all that background noise. While it is a racing game and should have other sound effects, these two should be kept seperate. 
 
 ### Identifying EQ Problems
 
@@ -37,6 +40,8 @@ Below is a car engine audio clip, and two two versions of the same clip, each on
 
 #### Your Answer
 <!-- Write your answer here -->
+car engine eq1= Here the timing between attacks sounds slowed down and the decay after the attack is longer. The pitch of sound is in a lower octave or lower pitch as thw sound is muddier and lower pitched than the first. 
+car engine eq2=Here the attack and decay is pretty short on the first sound and shortened on the second sound. It might be sped up, but it could just be the effect from the pitch being higher. The ranger of sound is even higher than the original. Visually on this sound wavelength you see it changes the most as it looks very streched out. 
 
 ## Waveform Analysis
 
@@ -55,7 +60,7 @@ To edit the table below, use a text editor to edit this file. Use this [markdown
 
 | waveform | sound description |
 | --- | --- |
-| | gunshot |
-| | drum beat |
-| | passing car |
-| | recorded interview |
+| C| gunshot |
+| A| drum beat |
+|B | passing car |
+|D | recorded interview |
