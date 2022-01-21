@@ -25,8 +25,27 @@ Let's say you're designing a casual racing game, and you're looking for car horn
 - [car-horn__c.wav](/assets/car-horn__c.wav?raw=1)
 
 #### Your Answer
-<!-- Write your answer here -->
+Car horn A
+  2 sharp horns, the horn seems to have 2 different notes simultaneously with a fast attack and equally fast decay.
+  Pro: Clear
+       Loud
+       Distinguishable
+  Con: Harsh
+       
+Car horn B
+  4 horns total, each horn has fast attack and decay with a longer hold with each subsequent horn. 
+  Pro: Distinguishable
+       Good Volume
+  Con: Background Noise 
+       Muffled
 
+Car horn C
+  2 horns total, each horn has a fast attack and decay, the first honr being shorter than the subsequent horn.
+  Pro: Good Volume
+  Con: Muffled
+       Background Noise
+       Cluttered
+       
 ### Identifying EQ Problems
 
 Below is a car engine audio clip, and two two versions of the same clip, each one with different EQ changes applied. Describe the EQ differences you hear between the clips.
@@ -36,7 +55,14 @@ Below is a car engine audio clip, and two two versions of the same clip, each on
 - [car-engine__eq2](/assets/car-engine__eq2.wav?raw=1)
 
 #### Your Answer
-<!-- Write your answer here -->
+EQ1
+  Lower pitched
+  Sounds muffled, possibly lofi
+  
+EQ2
+  Higher pitched
+  Tinny
+  
 
 ## Waveform Analysis
 
@@ -55,7 +81,7 @@ To edit the table below, use a text editor to edit this file. Use this [markdown
 
 | waveform | sound description |
 | --- | --- |
-| | gunshot |
-| | drum beat |
-| | passing car |
-| | recorded interview |
+|B | gunshot |
+|A | drum beat |
+|C | passing car |
+|D | recorded interview |
