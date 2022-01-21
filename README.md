@@ -40,7 +40,7 @@ Car horn B
        Muffled
 
 Car horn C
-  2 horns total, each horn has a fast attack and decay, the first honr being shorter than the subsequent horn.
+  2 horns total, each horn has a fast attack and decay, the first horn being shorter than the subsequent horn.
   Pro: Good Volume
   Con: Muffled
        Background Noise
