@@ -27,6 +27,19 @@ Let's say you're designing a casual racing game, and you're looking for car horn
 #### Your Answer
 <!-- Write your answer here -->
 
+- [car-horn__a.wav](/assets/car-horn__a.wav?raw=1)
+	-The volume of this clip is very loud. The quality is not the most clear. The attack is quick and concise, as expected of a car horn. The decay is the same. There is little to no noise in this clip.
+	-Pros: Loud, No Noise, Quick Attack
+	-Cons: Low Quality, Decay too short
+- [car-horn__b.wav](/assets/car-horn__b.wav?raw=1)
+	-The volume of this clip is somewhat soft. The attack is quick, and lingers on for a few more car horns. There is little to no noise in this clip.
+	-Pros: Many car horn samples to choose from
+	-Cons: Low volume
+- [car-horn__c.wav](/assets/car-horn__c.wav?raw=1)
+	-The volume of this clip is loud. Although the quality of the horn itself is good, there is a lot of noise in the background. The attack and decay are slow.
+	-Pros: Good volume, has the whole horn sound
+	-Cons: Noise
+
 ### Identifying EQ Problems
 
 Below is a car engine audio clip, and two two versions of the same clip, each one with different EQ changes applied. Describe the EQ differences you hear between the clips.
@@ -37,6 +50,11 @@ Below is a car engine audio clip, and two two versions of the same clip, each on
 
 #### Your Answer
 <!-- Write your answer here -->
+
+- [car-engine__eq1](/assets/car-engine__eq1.wav?raw=1)
+	- The difference between the original audio file and this one is that this clip's waveform probably has a lower amplitude than the original. The sound is low, and the original low sounds have been boosted.
+- [car-engine__eq2](/assets/car-engine__eq2.wav?raw=1)
+	- The difference between the original audio file and this one is that this clip is much more higher pitched than the original clip.
 
 ## Waveform Analysis
 
@@ -55,7 +73,7 @@ To edit the table below, use a text editor to edit this file. Use this [markdown
 
 | waveform | sound description |
 | --- | --- |
-| | gunshot |
-| | drum beat |
-| | passing car |
-| | recorded interview |
+| C | gunshot |
+| A | drum beat |
+| B | passing car |
+| D | recorded interview |
